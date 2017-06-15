@@ -1,4 +1,4 @@
-<%-- 
+﻿<%-- 
     Document   : index
     Created on : 2016-01-04, 18:46:18
     Author     : Paweł
@@ -21,7 +21,7 @@
             <table border="0" cellpadding="5">
                 <thead>
                     <tr>
-                        <th colspan="2">Logowanie</th>
+                        <th colspan="2">LogowanieTEST</th>
                     </tr>
                 </thead>
                 <tbody>
