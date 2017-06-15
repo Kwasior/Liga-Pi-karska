@@ -1,0 +1,122 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016-01-05, 12:26:37
+    Author     : Paweł
+*/
+html,body {
+    background-image: url("bcg.jpg");
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+div#strona
+{font-family: Verdana;
+position: right;
+width: 80%;
+height: 500px;
+margin: 0 auto;
+padding: 10px;
+}
+div#naglowek
+{font-weight:bold;
+font-size:60px;
+text-align: center;
+height: 80px;
+padding: 10px;
+margin-bottom: 4px;
+background-image: url("ng.jpg");
+color: #cdcdcd;
+}
+div#naglowek_2
+{height: 30px;
+padding: 10px;
+margin-bottom: 4px;
+background-color: #961e1e;
+color: #ffffff;
+}
+div#menu_2
+{margin-right:4px;
+margin-bottom: 4px;
+height: 400px;
+padding:10px;
+float: left;
+background-color:#BBC9E2;
+text-align:center;
+width:180px;
+}
+div#menu_2 ul
+{margin:0;
+padding:0;
+list-style:none;
+}
+div#menu_2 ul li {
+position:relative;
+}
+div#menu_2 ul li span{
+display:block;
+background:url(buttonLeft1.png) top left no-repeat;
+}
+div#menu_2 ul li a{
+text-decoration:none;
+color:white;
+font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+display:block;
+margin-bottom: 8px;
+height: 62px;
+line-height: 62px;
+background:url(buttonRight1.png) top right no-repeat;
+}
+div#menu_2 ul li span:hover {
+background:url(hoverLeft1.png) top left no-repeat;
+}
+div#menu_2 ul li a:hover{
+background:url(hoverRight2.png) top right no-repeat;
+}
+div#menu_2 ul ul{
+position:absolute;
+display:none;
+}
+div#menu_2 ul ul li a{
+background:#47628A;
+}
+div#menu_2 ul li:hover ul{
+width:100%;
+position:absolute;
+display:block; left:180px;
+top:0;
+}
+div#zawartosc 
+{text-align: center;
+margin-bottom: 4px;
+font-size:12px;
+height: 360px;
+padding: 30px;
+background-color: #F3F3F3;
+overflow:auto;
+}
+div#zawartosc g{
+font-size:17px;
+font-weight:bold;
+}
+div#zawartosc z{
+font-size:15px;
+}
+div#zawartosc th{
+background-color: #1F1D1D;
+color: #ffffff;
+}
+div#stopka
+{text-align: center;
+clear: both;
+height: 40px;
+padding: 10px;
+margin-top: 4px;
+background-image: url("st.jpg");
+color: #cdcdcd;
+}
+
