@@ -1,7 +1,7 @@
-<%-- 
+﻿<%-- 
     Document   : index
     Created on : 2016-01-04, 18:46:18
-    Author     : Paweł
+    Author     : Paweł2
 --%>
 
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
