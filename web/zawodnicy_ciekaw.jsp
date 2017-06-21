@@ -1,4 +1,4 @@
-<%-- 
+﻿<%-- 
     Document   : index
     Created on : 2016-01-04, 18:46:18
     Author     : Paweł
@@ -41,7 +41,7 @@ if(s.equals("1")) { %>
 <li> 
 <span><a href="zawodnicy.jsp"> Zawodnicy </a></span>
 <ul>
-<li> <a href="zawodnicy_dodaj.jsp"> Nowy zawodnik </a></li>
+<li> <a href="zawodnicy_dodaj.jsp"> Nowy piłkarz </a></li>
 <li> <a href="zawodnicy_edytuj.jsp"> Edytuj zawodnika </a></li>
 <li> <a href="zawodnicy_ciekaw.jsp"> Ciekawostki </a></li>
 </ul>
